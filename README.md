@@ -1,2 +1,2 @@
 <h1 align="center">Hi 👋, This is my Discord Prayer time bot</h1>
-<h2 align="center">*OBLIGATORY* I build my discord bot on my discord nuker bot meaning my bot is a nuker and prayer times bot. I only now see the problem, we all start somewhere I guess 
+<h2 align="center">*OBLIGATORY* I built my discord bot on my discord nuker bot meaning my bot is a nuker and prayer times bot. This wasnt intentional I will remove next update
