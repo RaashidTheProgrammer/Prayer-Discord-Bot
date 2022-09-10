@@ -1,2 +1,2 @@
 # Prayer-Discord-Bot
-A discord bot which takes prayer times and sends it to discord users
+<h1>A discord bot which takes prayer times and sends it to discord users</h1>
