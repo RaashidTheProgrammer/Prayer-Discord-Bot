@@ -130,7 +130,7 @@ async def destroy(ctx):
             print (f"{emoji.name} has been deleted")
         except:
             pass    
-    print("Action completed: Nuclear Destruction")
+    print("nUKED LoL")
 #############################
 
 
